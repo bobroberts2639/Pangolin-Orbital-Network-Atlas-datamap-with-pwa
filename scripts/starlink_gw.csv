@@ -1,0 +1,199 @@
+name,region,country,status
+Ikire,,Nigeria,live
+Lekki,,Nigeria,live
+Akita,,Japan,live
+Hitachinaka,,Japan,live
+Otaru,,Japan,live
+Yamaguchi,,Japan,live
+Angeles,,Philippines,live
+Marathon,Ontario,Canada,live
+Saguenay,Quebec,Canada,live
+Sambro Creek,Nova Scotia,Canada,live
+St. John's,Newfoundland and Labrador,Canada,live
+Caleta,,Dominican Republic,unknown
+Santiago de los Caballeros,,Dominican Republic,live
+Cabo San Lucas,,Mexico,live
+Charcas,,Mexico,live
+El Marques,,Mexico,live
+Llano Grande,,Mexico,live
+Mazahua,,Mexico,live
+Merida,,Mexico,live
+Monterrey,,Mexico,live
+Penuelas,,Mexico,live
+Tapachula,,Mexico,live
+Villahermosa,,Mexico,live
+Ponce,,Puerto Rico,live
+Toa Baja,,Puerto Rico,live
+Adelanto,California,United States,construction
+Anchorage,Alaska,United States,live
+Anderson,South Carolina,United States,pending
+Angola,Indiana,United States,construction
+Arbuckle,California,United States,pending
+Arlington,Oregon,United States,pending
+Arvin,California,United States,pending
+Atlanta,Georgia,United States,pending
+Baxley,Georgia,United States,live
+Beekmantown,New York,United States,live
+Bellingham,Washington,United States,live
+Benkelman,Nebraska,United States,construction
+Blountsville,Alabama,United States,construction
+Boca Chica,Texas,United States,live
+Boydton,Virginia,United States,pending
+Brewster,Washington,United States,live
+Broadview,Illinois,United States,live
+Brunswick,Maine,United States,construction
+Butte,Montana,United States,live
+Cass County,North Dakota,United States,live
+Charleston,Oregon,United States,live
+Charleston,South Carolina,United States,pending
+Cheyenne,Wyoming,United States,pending
+Clinton,Illinois,United States,construction
+Colburn,Idaho,United States,live
+Columbus,Ohio,United States,unknown
+Conrad,Montana,United States,live
+Des Moines,Iowa,United States,pending
+Dumas,Texas,United States,live
+Elbert,Colorado,United States,live
+Elkton,Maryland,United States,unknown
+Evanston,Wyoming,United States,live
+Fairbanks,Alaska,United States,live
+Fort Lauderdale,Florida,United States,live
+Frederick,Maryland,United States,live
+Gaffney,South Carolina,United States,live
+Greenville,Pennsylvania,United States,live
+Hamshire,Texas,United States,live
+Hawthorne,California,United States,live
+Hillman,Michigan,United States,live
+Hillsboro,Texas,United States,live
+Hitterdal,Minnesota,United States,live
+Inman,Kansas,United States,live
+Kalama,Washington,United States,live
+Kenansville,Florida,United States,live
+Ketchikan,Alaska,United States,live
+Kuparuk,Alaska,United States,live
+Lawrence,Kansas,United States,live
+Litchfield,Connecticut,United States,live
+Lockport,New York,United States,live
+Loring,Maine,United States,live
+Lunenburg,Vermont,United States,live
+Mandale,North Carolina,United States,live
+Manistique,Michigan,United States,live
+Marcell,Minnesota,United States,live
+Marshall,Texas,United States,construction
+McGregor,Texas,United States,live
+Merrillan,Wisconsin,United States,live
+Molokai,Hawaii,United States,live
+Mount Ayr,Indiana,United States,live
+Murrieta,California,United States,pending
+Nemaha,Nebraska,United States,live
+New Braunfels,Texas,United States,live
+Nome,Alaska,United States,live
+Norcross,Georgia,United States,live
+North Bend,Washington,United States,pending
+Olympia,Washington,United States,pending
+Panaca,Nevada,United States,live
+Port Matilda,Pennsylvania,United States,construction
+Prosser,Washington,United States,live
+Punta Gorda,Florida,United States,live
+Quincy,Washington,United States,pending
+Redmond,Washington,United States,live
+Richardson,Texas,United States,pending
+Roberts,Wisconsin,United States,construction
+Robbins,California,United States,live
+Robertsdale,Alabama,United States,live
+Rolette,North Dakota,United States,live
+Roll,Arizona,United States,live
+Romulus,New York,United States,construction
+San Antonio,Texas,United States,pending
+Sanderson,Texas,United States,live
+Savanna,Oklahoma,United States,construction
+Savannah,Tennessee,United States,unknown
+Sheffield,Illinois,United States,construction
+Slope County,North Dakota,United States,live
+Springer,Oklahoma,United States,live
+Sullivan,Maine,United States,live
+The Dalles,Oregon,United States,pending
+Tionesta,California,United States,live
+Tracy City,Tennessee,United States,live
+Unalaska,Alaska,United States,live
+Vernon,Utah,United States,live
+Warren,Missouri,United States,live
+Wichita Falls,Texas,United States,pending
+Wise,North Carolina,United States,live
+York,Pennsylvania,United States,pending
+Villenave-d'Ornon,,France,live
+Aerzen,,Germany,live
+Usingen,,Germany,live
+Ballinspittle,,Ireland,live
+Elfordstown,,Ireland,live
+Foggia,,Italy,live
+Marsala,,Italy,live
+Milan,,Italy,live
+Kaunas,,Lithuania,live
+Tromso,,Norway,live
+Wola Krobowska,,Poland,live
+Alfouvar de Cima,,Portugal,live
+Covilha,,Portugal,live
+Ibi,,Spain,live
+Lepe,,Spain,live
+Villarejo de Salvanes,,Spain,live
+Chalfont St Giles,,United Kingdom,live
+Fawley,,United Kingdom,unknown
+Goonhilly,,United Kingdom,live
+Hoo,,United Kingdom,pending
+Isle of Man,,United Kingdom,live
+Morn Hill,,United Kingdom,unknown
+Wherstead,,United Kingdom,construction
+Woodwalton,,United Kingdom,unknown
+Murayjat,,Oman,live
+Muallim,,Turkey,live
+Bogantungan,,Australia,unknown
+Boorowa,,Australia,live
+Broken Hill,,Australia,live
+Bulla Bulling,,Australia,live
+Calrossie,,Australia,live
+Canyonleigh,,Australia,live
+Cataby,,Australia,live
+Cobargo,,Australia,live
+Ki Ki,,Australia,live
+Merredin,,Australia,live
+Pimba,,Australia,live
+Springbrook Creek,,Australia,live
+Tea Gardens,,Australia,live
+Toonpan,,Australia,live
+Torrumbarry,,Australia,live
+Wagin,,Australia,live
+Warra,,Australia,live
+Willows,,Australia,unknown
+Suva,,Fiji,live
+Awarua,,New Zealand,live
+Clevedon,,New Zealand,live
+Cromwell,,New Zealand,live
+Hinds,,New Zealand,live
+Puwera,,New Zealand,live
+Te Hana,,New Zealand,live
+Falda del Carmen,,Argentina,live
+Camacari,,Brazil,live
+Guarapari,,Brazil,live
+Itaborai,,Brazil,live
+Joao Camara,,Brazil,unknown
+Luz,,Brazil,live
+Manaus,,Brazil,live
+Montes Claros,,Brazil,live
+Mossoro,,Brazil,live
+Passa Quatro,,Brazil,unknown
+Porto Alegre,,Brazil,live
+Presidente Prudente,,Brazil,live
+Rio Negro,,Brazil,live
+Santana de Parnaiba,,Brazil,unknown
+Sao Goncalo do Amarante,,Brazil,unknown
+Surubim,,Brazil,live
+Uruguaiana,,Brazil,live
+Caldera,,Chile,live
+Noviciado,,Chile,live
+Puerto Montt,,Chile,live
+Puerto Saavedra,,Chile,live
+Punta Arenas,,Chile,live
+San Clemente,,Chile,live
+Santa Elena,,Chile,live
+Willemstad,,Curacao,live

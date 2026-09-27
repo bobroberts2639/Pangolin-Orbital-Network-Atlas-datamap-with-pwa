@@ -1,0 +1,513 @@
+FCC database
+IBFS / ICFS filings
+
+International and satellite application filings from current ICFS and the legacy IBFS system.
+
+
+
+
+2026-09-18	SES-T/C-20260914-02558	CoxCom, LLC	Pending Payment
+2026-09-18	SES-T/C-20260914-02557	Cox Communications Arizona, LLC	Pending Payment
+2026-09-18	SES-T/C-20260914-02556	Cox Communications California, LLC	Pending Payment
+2026-09-18	SES-T/C-20260914-02547	QLocal, Inc.	Pending Payment
+2026-09-18	SES-STA-20260914-02596	Viasat, Inc.	Pending Payment
+2026-09-18	SES-STA-20260914-02593	Viasat, Inc.	Pending Payment
+2026-09-18	SES-STA-20260914-02592	Viasat, Inc.	Pending Payment
+2026-09-18	SES-STA-20260914-02590	Viasat, Inc.	Pending Payment
+2026-09-18	SES-STA-20260914-02588	Viasat, Inc.	Pending Payment
+2026-09-18	SES-STA-20260914-02587	Viasat, Inc.	Pending Payment
+2026-09-18	SES-STA-20260914-02586	Viasat, Inc.	Pending Payment
+2026-09-18	SES-STA-20260914-02582	Viasat, Inc.	Pending Payment
+2026-09-18	SES-STA-20260914-02578	Viasat, Inc.	Pending Payment
+2026-09-18	SES-STA-20260914-02577	Viasat, Inc.	Pending Payment
+2026-09-18	SES-STA-20260914-02576	Viasat, Inc.	Pending Payment
+2026-09-18	SES-STA-20260914-02575	Viasat, Inc.	Pending Payment
+2026-09-18	SES-STA-20260914-02570	Viasat, Inc.	Pending Payment
+2026-09-18	SES-STA-20260914-02569	Viasat, Inc.	Pending Payment
+2026-09-18	SES-STA-20260914-02568	Viasat, Inc.	Pending Payment
+2026-09-18	SES-STA-20260914-02567	ISAT US Inc.	Pending Payment
+2026-09-18	SES-STA-20260914-02566	Viasat, Inc.	Pending Payment
+2026-09-18	SES-STA-20260914-02565	Viasat, Inc.	Pending Payment
+2026-09-18	SES-STA-20260914-02564	Viasat, Inc.	Pending Payment
+2026-09-18	SES-RWL-20260918-02624	Viasat, Inc.	Pending Payment
+2026-09-18	SES-RWL-20260916-02614	Viasat, Inc.	Pending Payment
+2026-09-18	SES-RWL-20260916-02613	Viasat, Inc.	Pending Payment
+2026-09-18	SES-RWL-20260916-02612	Viasat, Inc.	Pending Payment
+2026-09-18	SES-RWL-20260916-02611	Viasat, Inc.	Pending Payment
+2026-09-18	SES-RWL-20260916-02609	Viasat, Inc.	Pending Payment
+2026-09-18	SES-RWL-20260916-02608	Viasat, Inc.	Pending Payment
+2026-09-18	SES-RWL-20260915-02607	Viasat, Inc.	Pending Payment
+2026-09-18	SES-RWL-20260915-02605	Viasat, Inc.	Pending Payment
+2026-09-18	SES-RWL-20260915-02600	Viasat, Inc.	Pending Payment
+2026-09-18	SES-RWL-20260915-02599	Viasat, Inc.	Pending Payment
+2026-09-18	SES-RWL-20260915-02598	Viasat, Inc.	Pending Payment
+2026-09-18	SES-RWL-20260914-02573	Viasat, Inc.	Pending Payment
+2026-09-18	SES-RWL-20260914-02571	Viasat, Inc.	Pending Payment
+2026-09-18	SES-RWL-20260914-02563	Viasat, Inc.	Pending Payment
+2026-09-18	SES-RWL-20260914-02560	Viasat, Inc.	Pending Payment
+2026-09-18	SES-RWL-20260901-02471	Viasat, Inc.	Pending Payment
+2026-09-18	SES-MOD-20260331-00411	Maris Developments	Pending Review
+2026-09-18	SES-MOD-20260331-00410	Moynk Properties, LLC	Pending Review
+2026-09-18	SES-LIC-20260702-01945	SpeedCast Communications Inc.	Pending Review
+2026-09-18	SAT-AMD-20260917-00370	Blue Origin, LLC	Pending Review
+2026-09-17	SES-MOD-20260917-02621	DCI II, Inc.	Pending Review
+2026-09-17	SAT-MOD-20260910-00367	XM Radio LLC	Pending Review
+2026-09-17	ITC-RPT-20260917-00281	BT Americas Inc.	Pending Review
+2026-09-16	SES-STA-20260916-02618	SES Networks Lux, S.a.r.l.	Pending Review
+2026-09-16	SES-RWL-20260916-02619	Gray Television Licensee, LLC	Pending Review
+2026-09-16	SES-RWL-20260916-02617	Intelsat License LLC	Pending Review
+2026-09-16	ITC-T/C-20260914-00279	The Blacklist Alliance, Ltd.	Pending Review
+2026-09-15	SES-STA-20260915-02604	Kongsberg Satellite Services AS	Pending Review
+2026-09-15	SES-STA-20260915-02603	Intelsat License LLC	Pending Review
+2026-09-15	SES-LIC-20260915-02601	Morehead State University	Pending Payment
+2026-09-14	SES-STA-20260914-02591	Moynk Properties, LLC	Pending Review
+2026-09-14	SES-STA-20260914-02589	Ligado Networks Subsidiary LLC, Debtor-in-Possession	Pending Review
+2026-09-14	SES-STA-20260914-02583	Moynk Properties, LLC	Pending Review
+2026-09-14	SES-STA-20260914-02581	Maris Developments	Pending Review
+2026-09-14	SES-STA-20260914-02579	Haras Development	Pending Review
+2026-09-14	SES-STA-20260914-02555	RBC Signals, LLC	Pending Review
+2026-09-14	SES-STA-20260914-02554	RBC Signals, LLC	Pending Review
+2026-09-14	SES-STA-20260914-02553	RBC Signals, LLC	Pending Review
+2026-09-14	SES-STA-20260914-02552	RBC Signals, LLC	Pending Review
+2026-09-14	SES-STA-20260914-02549	RBC Signals, LLC	Pending Review
+2026-09-14	SES-STA-20260914-02548	RBC Signals, LLC	Pending Review
+2026-09-14	SES-STA-20260905-02512	SpaceX Services, Inc.	Pending Payment
+2026-09-14	SES-STA-20260903-02507	SpaceX Services, Inc.	Pending Payment
+2026-09-14	SES-STA-20260902-02493	SpaceX Services, Inc.	Pending Payment
+2026-09-14	SES-STA-20260902-02492	SpaceX Services, Inc.	Pending Payment
+2026-09-14	SES-STA-20260902-02491	SpaceX Services, Inc.	Pending Payment
+2026-09-14	SES-STA-20260830-02445	SpaceX Services, Inc.	Pending Payment
+2026-09-14	SES-STA-20260830-02444	SpaceX Services, Inc.	Pending Payment
+2026-09-14	SES-STA-20260828-02441	SpaceX Services, Inc.	Pending Payment
+2026-09-14	SCL-RPT-20260914-00134	StarHub Ltd	Closed
+2026-09-14	SAT-STA-20260914-00368	Planet Labs PBC	Pending Review
+2026-09-14	ITC-ASG-20260826-00261	Cox Communications, Inc	Pending Review
+2026-09-13	SCL-RPT-20260913-00133	China Mobile International Limited	Closed
+2026-09-11	SES-T/C-20260908-02518	SpeedCast Communications Inc.	Pending Review
+2026-09-11	SES-AMD-20260902-02485	Skylo Technologies, Inc	Pending Review
+2026-09-11	SAT-LOA-20260814-00341	Starfish Space Inc.	Pending Review
+2026-09-11	SAT-AMD-20260909-00365	AST & Science, LLC	Pending Review
+2026-09-11	SAT-AMD-20260905-00360	Blue Origin, LLC	Pending Review
+2026-09-11	ITC-DSC-20260728-00222	PRESTO WIRELESS CORP.	Pending Review
+2026-09-11	ITC-AMD-20260909-00276	Mobi Acquisition LLC	Pending Review
+2026-09-11	ITC-214-20260903-00265	NBVDS Investment, L.L.C.	Pending Payment
+2026-09-11	ITC-214-20260725-00216	TeleArc LLC	Pending Review
+2026-09-10	SES-STA-20260910-02544	Viasat, Inc.	Pending Review
+2026-09-10	SES-STA-20260910-02543	Haras Development	Pending Review
+2026-09-10	SES-STA-20260903-02502	Intuitive Machines	Pending Review
+2026-09-10	SES-MOD-20260828-02442	Viasat, Inc.	Pending Review
+2026-09-10	SES-LIC-20260820-02357	DCI II, Inc.	Pending Review
+2026-09-10	SES-LIC-20260625-01926	SpeedCast Communications Inc.	Pending Review
+2026-09-10	SES-ASG-20260910-02539	Alpha 3E Licensee LLC	Pending Payment
+2026-09-10	SES-AMD-20260909-02535	Heighliner Corp	Pending Review
+2026-09-10	SAT-LOA-20260805-00327	Hubble Network Inc	Pending Review
+2026-09-10	ITC-RPT-20260910-00278	T-Mobile USA, Inc.	Closed
+2026-09-09	SES-STA-20260909-02538	RBC Signals, LLC	Pending Review
+2026-09-09	SES-STA-20260909-02537	RBC Signals, LLC	Pending Review
+2026-09-09	SES-RWL-20260908-02520	Vyvx, LLC	Pending Review
+2026-09-09	SES-RWL-20260907-02515	COMSAT LLC	Pending Review
+
+2026-09-09	SES-RWL-20260907-02513	COMSAT LLC	Pending Review
+2026-09-09	SES-RWL-20260828-02421	Inmarsat Solutions (US) Inc.	Pending Payment
+2026-09-09	SES-RWL-20260828-02420	Inmarsat Solutions (US) Inc.	Pending Payment
+2026-09-09	SES-RWL-20260828-02419	Inmarsat Solutions (US) Inc.	Pending Payment
+2026-09-09	SES-RWL-20260828-02417	Inmarsat Solutions (US) Inc.	Pending Payment
+2026-09-09	SES-ASG-20260903-02503	Hearst Properties Inc.	Pending Review
+2026-09-09	SAT-STA-20260909-00366	Capella Space Corp.	Closed
+2026-09-09	ITC-AMD-20260909-00274	Telecom North America Inc.	Pending Review
+2026-09-09	ITC-214-20260909-00277	Caricell	Pending Payment
+2026-09-08	SES-T/C-20260823-02366	BT Americas Inc.	Pending Review
+2026-09-08	SES-STA-20260908-02523	Myriota Pty Ltd	Pending Review
+2026-09-08	SES-STA-20260908-02521	AST & Science, LLC	Pending Review
+2026-09-08	SES-STA-20260908-02519	ATLAS Space Operations, Inc	Closed
+2026-09-08	SAT-STA-20260908-00364	AST & Science, LLC	Pending Review
+2026-09-08	SAT-STA-20260904-00359	Space Logistics LLC	Pending Review
+2026-09-08	SAT-STA-20260904-00358	Space Logistics LLC	Pending Review
+2026-09-08	SAT-STA-20260902-00356	Satellite CD Radio LLC	Closed
+2026-09-08	ITC-T/C-20260907-00266	British Telecommunications Limited	Pending Review
+2026-09-08	ITC-T/C-20260823-00254	British Telecommunications Limited	Pending Review
+2026-09-08	ITC-ASG-20260820-00250	Verizon Business Global LLC dba Verizon Business	Pending Review
+2026-09-04	SES-RWL-20260904-02510	DIRECTV Enterprises, LLC	Pending Review
+2026-09-04	SES-RWL-20260831-02450	COMSAT LLC	Pending Review
+2026-09-04	SES-MOD-20260901-02466	Northwood Space Corp.	Pending Review
+2026-09-04	SES-MOD-20260901-02465	Northwood Space Corp.	Pending Review
+2026-09-04	SES-MOD-20260901-02464	Northwood Space Corp.	Pending Review
+2026-09-04	SES-MOD-20260901-02463	Northwood Space Corp.	Pending Review
+2026-09-04	SES-MOD-20260901-02462	Northwood Space Corp.	Pending Review
+2026-09-04	ITC-ASG-20260901-00264	Hargray Communications Group, LLC	Pending Review
+2026-09-03	SES-STA-20260903-02506	Moynk Properties, LLC	Pending Review
+2026-09-03	SES-STA-20260903-02505	Moynk Properties, LLC	Pending Review
+2026-09-03	SES-STA-20260903-02504	Heighliner Corp	Pending Review
+2026-09-03	SES-STA-20260903-02499	Universal Space Network, Inc.	Pending Review
+2026-09-03	SES-STA-20260903-02498	Universal Space Network, Inc.	Pending Review
+2026-09-03	SES-LIC-20260902-02490	Satcom Transportables LLC	Pending Payment
+2026-09-03	SES-ASG-20260812-02221	ACS Long Distance, LLC	Pending Review
+2026-09-03	SCL-AMD-20260825-00125	Citadel Pacific Ltd.	Pending Review
+2026-09-03	SAT-RPL-20260727-00312	Sirius XM Radio LLC	Pending Review
+2026-09-03	SAT-LOA-20260727-00312	Sirius XM Radio LLC	Pending Review
+2026-09-03	ISP-AMD-20260825-00001	PTI Pacifica Inc.	Pending Review
+2026-09-02	SES-STA-20260902-02489	AST & Science, LLC	Pending Review
+2026-09-02	SES-STA-20260902-02488	AST & Science, LLC	Pending Review
+2026-09-02	SES-STA-20260902-02487	AST & Science, LLC	Pending Review
+2026-09-02	SES-STA-20260902-02486	AST & Science, LLC	Pending Review
+2026-09-02	SES-STA-20260902-02483	Parsons Corporation	Pending Review
+2026-09-02	SES-STA-20260901-02467	Parsons Corporation	Pending Review
+2026-09-02	SES-STA-20260807-02193	Parsons Corporation	Pending Review
+2026-09-02	SES-STA-20260807-02192	Parsons Corporation	Pending Review
+2026-09-02	SAT-LOA-20260527-00216	Turion Space Corp.	Pending Payment
+2026-09-01	SES-T/C-20260817-02328	WDEF-TV, Inc.	Pending Review
+2026-09-01	SES-T/C-20260817-02327	WCBI-TV, LLC	Pending Review
+2026-09-01	SES-T/C-20260817-02326	Morris Network, Inc.	Pending Review
+2026-09-01	SES-T/C-20260817-02325	Morris Network of Mississippi, Inc.	Pending Review
+2026-09-01	SES-STA-20260901-02482	Kongsberg Satellite Services AS	Pending Review
+2026-09-01	SES-STA-20260901-02481	Haras Development	Pending Review
+2026-09-01	SES-STA-20260901-02480	Kongsberg Satellite Services AS	Pending Review
+2026-09-01	SES-STA-20260901-02479	Kongsberg Satellite Services AS	Pending Review
+2026-09-01	SES-STA-20260901-02478	Kongsberg Satellite Services AS	Pending Review
+2026-09-01	SES-STA-20260901-02476	Kongsberg Satellite Services AS	Pending Review
+2026-09-01	SES-STA-20260901-02475	Intelsat License LLC	Pending Review
+2026-09-01	SES-STA-20260901-02474	Denali 20020, LLC	Pending Review
+2026-09-01	SES-STA-20260901-02473	Denali 20020, LLC	Pending Review
+2026-09-01	SES-STA-20260901-02470	Planet Labs PBC	Pending Review
+2026-09-01	SES-STA-20260901-02469	Planet Labs PBC	Pending Review
+2026-09-01	SES-STA-20260828-02440	Viasat, Inc.	Pending Review
+2026-09-01	SES-STA-20260828-02439	Viasat, Inc.	Pending Review
+2026-09-01	SES-STA-20260828-02437	Viasat, Inc.	Pending Review
+2026-09-01	SES-STA-20260828-02436	Viasat, Inc.	Pending Review
+2026-09-01	SES-STA-20260828-02435	Viasat, Inc.	Pending Review
+2026-09-01	SES-STA-20260828-02434	Viasat, Inc.	Pending Review
+2026-09-01	SES-STA-20260828-02433	Viasat, Inc.	Pending Review
+2026-09-01	SES-STA-20260828-02432	Viasat, Inc.	Pending Review
+2026-09-01	SES-STA-20260828-02431	Viasat, Inc.	Pending Review
+2026-09-01	SES-STA-20260828-02430	Viasat, Inc.	Pending Review
+2026-09-01	SES-STA-20260828-02429	Viasat, Inc.	Pending Review
+2026-09-01	SES-MOD-20260831-02456	Denali 20020, LLC	Pending Payment
+2026-09-01	SES-MOD-20260831-02455	Denali 20020, LLC	Pending Payment
+2026-09-01	SES-LIC-20260626-01927	Kuiper Systems LLC	Pending Review
+2026-09-01	SES-LIC-20260407-00876	Kuiper Systems LLC	Pending Review
+2026-09-01	SES-LIC-20260407-00874	Kuiper Systems LLC	Pending Review
+2026-09-01	ITC-T/C-20260824-00255	The Samuel P. Delug Living Trust	Pending Review
+2026-09-01	ITC-T/C-20260817-00248	The Samuel P. Delug Living Trust	Pending Review
+2026-09-01	ITC-T/C-20260817-00247	The Samuel P. Delug Living Trust	Pending Review
+2026-09-01	ITC-AMD-20260831-00263	SkyTel Corporation	Pending Review
+2026-08-31	SES-STA-20260831-02461	SpaceX Services, Inc.	Pending Review
+2026-08-31	SES-STA-20260831-02460	SpaceX Services, Inc.	Pending Review
+2026-08-31	SES-STA-20260831-02459	SpaceX Services, Inc.	Pending Review
+2026-08-31	SES-STA-20260831-02458	SpaceX Services, Inc.	Pending Review
+2026-08-31	SES-STA-20260831-02457	SpaceX Services, Inc.	Pending Review
+2026-08-31	SES-STA-20260831-02454	SpaceX Services, Inc.	Pending Review
+2026-08-31	SES-STA-20260831-02453	SpaceX Services, Inc.	Pending Review
+2026-08-31	SES-STA-20260831-02448	Universal Space Network, Inc.	Pending Review
+2026-08-31	SES-STA-20260831-02447	Universal Space Network, Inc.	Pending Review
+2026-08-31	SES-STA-20260831-02446	Universal Space Network, Inc.	Pending Review
+2026-08-31	SES-STA-20260827-02410	Flint Hills Resources, LC	Closed
+2026-08-31	SES-STA-20260827-02406	SpaceX Services, Inc.	Pending Review
+2026-08-31	SES-STA-20260827-02404	Flint Hills Resources, LC	Closed
+2026-08-31	SES-STA-20260820-02359	Calian Pacific Teleports Ltd.	Pending Review
+2026-08-31	SAT-STA-20260831-00353	Space Exploration Holdings, LLC	Pending Review
+2026-08-28	SES-T/C-20260828-02428	SCA-Palo Alto, LLC	Pending Review
+2026-08-28	SES-T/C-20260828-02427	Salem Media of Texas, Inc.	Pending Review
+
+2026-08-28	SES-T/C-20260828-02426	Salem Media of Oregon, Inc.	Pending Review
+2026-08-28	SES-T/C-20260828-02425	Salem Media of Ohio, Inc.	Pending Review
+2026-08-28	SES-T/C-20260828-02424	Salem Media of New York, LLC	Pending Review
+2026-08-28	SES-T/C-20260828-02423	Salem Media of Massachusetts LLC	Pending Review
+2026-08-28	SES-T/C-20260828-02422	Salem Media of Illinois, LLC	Pending Review
+2026-08-28	SES-T/C-20260828-02418	Salem Media of Colorado, Inc.	Pending Review
+2026-08-28	SES-T/C-20260828-02416	Salem Communications Holding Corporation	Pending Review
+2026-08-28	SES-T/C-20260828-02415	New Inspiration Broadcasting Company, Inc.	Pending Review
+2026-08-28	SES-T/C-20260827-02407	Inspiration Media of Texas, LLC	Pending Review
+2026-08-28	SES-STA-20260828-02438	Viasat, Inc.	Closed
+2026-08-28	SES-STA-20260622-01863	Viasat, Inc.	Closed
+2026-08-28	SES-STA-20260622-01861	Viasat, Inc.	Closed
+2026-08-28	SES-STA-20260622-01859	Viasat, Inc.	Closed
+2026-08-28	SES-MOD-20260622-01862	Viasat, Inc.	Pending Review
+2026-08-28	SES-MOD-20260622-01860	Viasat, Inc.	Pending Review
+2026-08-28	SES-MOD-20260622-01858	Viasat, Inc.	Pending Review
+2026-08-28	SAT-STA-20260828-00352	Space Exploration Holdings, LLC	Pending Review
+2026-08-28	SAT-STA-20260828-00351	Astranis Projects USA LLC	Closed
+2026-08-28	SAT-STA-20260828-00349	Capella Space Corp.	Closed
+2026-08-27	SES-STA-20260827-02414	Moynk Properties, LLC	Pending Review
+2026-08-27	SES-STA-20260827-02413	Moynk Properties, LLC	Closed
+2026-08-27	SES-STA-20260827-02412	Haras Development	Pending Review
+2026-08-27	SES-STA-20260827-02411	Maris Developments	Closed
+2026-08-27	SES-STA-20260827-02409	Heighliner Corp	Pending Review
+2026-08-27	SES-STA-20260827-02405	Intelsat License LLC	Pending Review
+2026-08-27	SAT-STA-20260827-00348	Intelsat License LLC	Closed
+2026-08-26	SES-STA-20260826-02402	Intelsat License LLC	Pending Review
+2026-08-26	SES-STA-20260820-02358	Arctec Alaska JV	Pending Review
+2026-08-26	ITC-AMD-20260826-00260	NeuroX Global Technologies LP	Pending Review
+2026-08-26	ITC-AMD-20260826-00259	NeuroX Global Technologies LP	Pending Review
+2026-08-25	SES-STA-20260825-02396	Intelsat License LLC	Pending Review
+2026-08-25	SES-STA-20260825-02395	Intelsat License LLC	Pending Review
+2026-08-25	SES-STA-20260825-02394	Intelsat License LLC	Pending Review
+2026-08-25	SES-STA-20260825-02392	Intelsat License LLC	Pending Review
+2026-08-25	SES-STA-20260825-02391	Intelsat License LLC	Pending Review
+2026-08-25	SES-STA-20260825-02390	Viasat, Inc.	Pending Review
+2026-08-25	SES-STA-20260825-02389	Viasat, Inc.	Pending Review
+2026-08-25	SES-STA-20260825-02388	Viasat, Inc.	Pending Review
+2026-08-25	SES-STA-20260825-02387	Viasat, Inc.	Pending Review
+2026-08-25	SES-STA-20260825-02386	Viasat, Inc.	Pending Review
+2026-08-25	SES-STA-20260825-02384	Viasat, Inc.	Pending Review
+2026-08-25	SES-STA-20260825-02383	Viasat, Inc.	Pending Review
+2026-08-25	SES-STA-20260825-02382	Viasat, Inc.	Pending Review
+2026-08-25	SES-STA-20260825-02381	Viasat, Inc.	Pending Review
+2026-08-25	SES-STA-20260825-02380	Viasat, Inc.	Pending Review
+2026-08-25	SES-STA-20260825-02379	Viasat, Inc.	Pending Review
+2026-08-25	SES-STA-20260825-02378	Viasat, Inc.	Pending Review
+2026-08-25	SES-STA-20260825-02377	ISAT US Inc.	Closed
+2026-08-25	SES-STA-20260825-02376	Haras Development	Pending Review
+2026-08-25	SES-RWL-20260821-02362	SATELLITE TECHNOLOGY SYSTEMS, LLC	Pending Payment
+2026-08-25	SES-RWL-20260811-02200	SATELLITE TECHNOLOGY SYSTEMS, LLC	Pending Payment
+2026-08-25	SCL-AMD-20260825-00131	Cirion Technologies Solutions, LLC	Pending Review
+2026-08-25	SCL-AMD-20260825-00130	Cirion Technologies Solutions, LLC	Closed
+2026-08-25	SCL-AMD-20260825-00129	Cirion Technologies Solutions, LLC	Pending Review
+2026-08-25	SCL-AMD-20260825-00128	Cirion Technologies Solutions, LLC	Pending Review
+2026-08-25	ITC-AMD-20260825-00256	NeuroX Global Technologies LP	Pending Review
+2026-08-25	ITC-AMD-20260821-00252	Space Exploration Holdings, LLC	Closed
+2026-08-25	ITC-AMD-20260721-00210	Space Exploration Holdings, LLC	Closed
+2026-08-25	ITC-214-20260123-00021	Space Exploration Holdings, LLC	Current
+2026-08-24	SES-STA-20260824-02370	Intelsat License LLC	Closed
+2026-08-24	SES-STA-20260824-02369	Intelsat License LLC	Closed
+2026-08-24	SES-STA-20260823-02367	Kongsberg Satellite Services AS	Pending Review
+2026-08-23	SAT-STA-20260823-00346	SES Americom, Inc.	Closed
+2026-08-22	SES-STA-20260822-02365	RBC Signals, LLC	Pending Review
+2026-08-22	SES-STA-20260822-02364	RBC Signals, LLC	Pending Review
+2026-08-21	SES-STA-20260821-02363	Intelsat License LLC	Closed
+2026-08-21	SES-STA-20260816-02313	SpaceX Services, Inc.	Pending Review
+2026-08-21	SES-STA-20260815-02312	SpaceX Services, Inc.	Pending Review
+2026-08-21	SES-STA-20260815-02311	SpaceX Services, Inc.	Pending Review
+2026-08-21	SES-STA-20260815-02310	SpaceX Services, Inc.	Pending Review
+2026-08-21	SES-STA-20260815-02309	SpaceX Services, Inc.	Pending Review
+2026-08-21	SES-STA-20260815-02308	SpaceX Services, Inc.	Pending Review
+2026-08-21	SES-STA-20260815-02307	SpaceX Services, Inc.	Pending Review
+2026-08-21	SES-STA-20260815-02306	SpaceX Services, Inc.	Pending Review
+2026-08-21	SES-STA-20260815-02305	SpaceX Services, Inc.	Pending Review
+2026-08-21	SES-STA-20260815-02304	SpaceX Services, Inc.	Pending Review
+2026-08-21	SES-STA-20260815-02303	SpaceX Services, Inc.	Pending Review
+2026-08-21	SES-STA-20260815-02302	SpaceX Services, Inc.	Pending Review
+2026-08-21	SES-STA-20260815-02301	SpaceX Services, Inc.	Pending Review
+2026-08-21	SES-STA-20260815-02300	SpaceX Services, Inc.	Pending Review
+2026-08-21	SES-STA-20260815-02299	SpaceX Services, Inc.	Pending Review
+2026-08-21	SES-STA-20260815-02298	SpaceX Services, Inc.	Pending Review
+2026-08-21	SES-STA-20260815-02297	SpaceX Services, Inc.	Pending Review
+2026-08-21	SES-STA-20260813-02270	SpaceX Services, Inc.	Pending Review
+2026-08-21	SES-STA-20260813-02269	SpaceX Services, Inc.	Pending Review
+2026-08-21	SES-STA-20260813-02268	SpaceX Services, Inc.	Closed
+2026-08-21	SES-STA-20260813-02267	SpaceX Services, Inc.	Closed
+2026-08-21	SES-STA-20260813-02266	SpaceX Services, Inc.	Pending Review
+2026-08-21	SES-STA-20260813-02265	SpaceX Services, Inc.	Pending Review
+2026-08-21	SES-STA-20260813-02264	SpaceX Services, Inc.	Pending Review
+2026-08-21	SES-STA-20260813-02263	SpaceX Services, Inc.	Pending Review
+2026-08-21	SES-STA-20260813-02262	SpaceX Services, Inc.	Pending Review
+2026-08-21	SES-STA-20260813-02261	SpaceX Services, Inc.	Pending Review
+2026-08-21	SES-STA-20260813-02260	SpaceX Services, Inc.	Pending Review
+2026-08-21	SES-STA-20260813-02259	SpaceX Services, Inc.	Pending Review
+2026-08-21	SES-STA-20260813-02258	SpaceX Services, Inc.	Pending Review
+2026-08-21	SES-STA-20260813-02257	SpaceX Services, Inc.	Pending Review
+2026-08-21	SES-STA-20260813-02256	SpaceX Services, Inc.	Pending Review
+2026-08-21	SES-STA-20260813-02255	SpaceX Services, Inc.	Pending Review
+2026-08-21	SES-STA-20260813-02254	SpaceX Services, Inc.	Pending Review
+
+2026-08-21	SES-STA-20260813-02253	SpaceX Services, Inc.	Pending Review
+2026-08-21	SES-STA-20260813-02252	SpaceX Services, Inc.	Pending Review
+2026-08-21	SES-STA-20260813-02251	SpaceX Services, Inc.	Pending Review
+2026-08-21	SES-STA-20260813-02250	SpaceX Services, Inc.	Pending Review
+2026-08-21	SES-STA-20260813-02249	SpaceX Services, Inc.	Pending Review
+2026-08-21	SES-STA-20260813-02248	SpaceX Services, Inc.	Closed
+2026-08-21	SES-STA-20260813-02247	SpaceX Services, Inc.	Pending Review
+2026-08-21	SES-STA-20260813-02246	SpaceX Services, Inc.	Pending Review
+2026-08-21	SES-STA-20260813-02245	SpaceX Services, Inc.	Pending Review
+2026-08-21	SES-STA-20260813-02244	SpaceX Services, Inc.	Pending Review
+2026-08-21	SES-STA-20260813-02243	SpaceX Services, Inc.	Pending Review
+2026-08-21	SES-STA-20260813-02242	SpaceX Services, Inc.	Closed
+2026-08-21	SES-STA-20260813-02241	SpaceX Services, Inc.	Pending Review
+2026-08-21	SES-STA-20260813-02240	SpaceX Services, Inc.	Pending Review
+2026-08-21	SES-STA-20260813-02239	SpaceX Services, Inc.	Pending Review
+2026-08-21	SES-STA-20260813-02238	SpaceX Services, Inc.	Pending Review
+2026-08-21	SCL-STA-20260820-00123	Edge Cable Holdings USA, LLC	Pending Review
+2026-08-21	ITC-T/C-20260808-00233	Mobile X Global, Inc.	Pending Review
+2026-08-21	ITC-214-20260821-00253	Rahh tech solutions LLC	Pending Review
+2026-08-20	SPC-MOD-20260820-00010	Telnyx, LLC	Pending Payment
+2026-08-20	SES-STA-20260819-02356	DIRECTV Enterprises, LLC	Closed
+2026-08-20	SES-STA-20260819-02355	DIRECTV Enterprises, LLC	Closed
+2026-08-20	SES-STA-20260819-02354	DIRECTV Enterprises, LLC	Closed
+2026-08-20	SAT-STA-20260819-00343	DIRECTV Enterprises, LLC	Closed
+2026-08-19	SES-STA-20260817-02323	Viasat, Inc.	Pending Review
+2026-08-19	SES-STA-20260817-02322	Viasat, Inc.	Pending Review
+2026-08-19	SES-STA-20260817-02321	Viasat, Inc.	Pending Review
+2026-08-19	SES-STA-20260817-02320	Viasat, Inc.	Pending Review
+2026-08-19	SES-STA-20260817-02319	Viasat, Inc.	Pending Review
+2026-08-19	SES-STA-20260817-02318	Viasat, Inc.	Pending Review
+2026-08-19	SES-STA-20260817-02317	Viasat, Inc.	Pending Review
+2026-08-19	SES-STA-20260817-02316	Viasat, Inc.	Pending Review
+2026-08-19	SES-STA-20260817-02315	Viasat, Inc.	Pending Review
+2026-08-19	SES-STA-20260817-02314	Viasat, Inc.	Pending Review
+2026-08-19	SES-STA-20260814-02296	Viasat, Inc.	Pending Review
+2026-08-19	SES-STA-20260814-02294	Viasat, Inc.	Pending Review
+2026-08-19	SES-STA-20260814-02293	Viasat, Inc.	Pending Review
+2026-08-19	SES-STA-20260814-02291	Viasat, Inc.	Pending Review
+2026-08-19	SES-STA-20260814-02290	Viasat, Inc.	Pending Review
+2026-08-19	SES-STA-20260814-02289	Viasat, Inc.	Pending Review
+2026-08-19	SES-STA-20260814-02288	Viasat, Inc.	Pending Review
+2026-08-19	SES-STA-20260814-02287	Viasat, Inc.	Pending Review
+2026-08-19	SES-STA-20260814-02286	Viasat, Inc.	Pending Review
+2026-08-19	SES-STA-20260814-02285	Viasat, Inc.	Pending Review
+2026-08-19	SES-STA-20260814-02284	Viasat, Inc.	Pending Review
+2026-08-19	SES-STA-20260814-02283	Viasat, Inc.	Pending Review
+2026-08-19	SES-STA-20260814-02282	Viasat, Inc.	Pending Review
+2026-08-19	SES-STA-20260814-02281	Viasat, Inc.	Pending Review
+2026-08-19	SES-STA-20260814-02280	Viasat, Inc.	Pending Review
+2026-08-19	SES-STA-20260814-02279	Viasat, Inc.	Pending Review
+2026-08-19	SES-STA-20260814-02278	Viasat, Inc.	Pending Review
+2026-08-19	SES-STA-20260814-02277	Viasat, Inc.	Pending Review
+2026-08-19	SES-ASG-20260819-02353	JKC Media LLC	Closed
+2026-08-19	SCL-RPT-20260819-00117	Pacific Carriage Limited Inc.	Closed
+2026-08-19	SAT-MOD-20260819-00342	Intelsat License LLC	Pending Review
+2026-08-18	SES-STA-20260818-02350	Heighliner Corp	Pending Review
+2026-08-18	SES-STA-20260818-02349	SpaceX Services, Inc.	Pending Review
+2026-08-18	SES-STA-20260818-02348	SpaceX Services, Inc.	Pending Review
+2026-08-18	SES-STA-20260818-02347	SpaceX Services, Inc.	Closed
+2026-08-18	SES-STA-20260818-02346	SpaceX Services, Inc.	Pending Review
+2026-08-18	SES-STA-20260818-02345	SpaceX Services, Inc.	Pending Review
+2026-08-18	SES-STA-20260818-02344	SpaceX Services, Inc.	Pending Review
+2026-08-18	SES-STA-20260818-02343	SpaceX Services, Inc.	Pending Review
+2026-08-18	SES-STA-20260818-02342	SpaceX Services, Inc.	Pending Review
+2026-08-18	SES-STA-20260818-02341	Kongsberg Satellite Services AS	Pending Review
+2026-08-18	SES-STA-20260818-02340	Intelsat License LLC	Pending Review
+2026-08-18	SES-STA-20260818-02339	Intelsat License LLC	Pending Review
+2026-08-18	SES-MOD-20260814-02271	Intelsat License LLC	Pending Review
+2026-08-18	SES-LIC-20260818-02338	SpaceX Services, Inc.	Pending Review
+2026-08-18	SES-LIC-20260818-02337	SpaceX Services, Inc.	Pending Review
+2026-08-18	SES-LIC-20260818-02336	SpaceX Services, Inc.	Pending Review
+2026-08-18	SES-LIC-20260818-02335	SpaceX Services, Inc.	Pending Review
+2026-08-18	SES-LIC-20260818-02334	SpaceX Services, Inc.	Pending Review
+2026-08-18	SES-LIC-20260818-02333	SpaceX Services, Inc.	Pending Review
+2026-08-18	SES-LIC-20260818-02332	SpaceX Services, Inc.	Pending Review
+2026-08-18	SES-LIC-20260817-02329	SpaceX Services, Inc.	Closed
+2026-08-18	ITC-AMD-20260818-00249	SkyTel Corporation	Pending Review
+2026-08-17	SES-STA-20260817-02330	Kuiper Systems LLC	Closed
+2026-08-17	SES-AMD-20260817-02324	Alpha Media Licensee LLC	Pending Payment
+2026-08-17	SCL-LIC-20260730-00104	Edge Cable Holdings USA, LLC	Pending Review
+2026-08-17	ITC-T/C-20260813-00243	Hooper Telephone Company	Pending Payment
+2026-08-17	ITC-ASG-20260813-00244	HTC Comm., Inc.	Pending Payment
+2026-08-17	ITC-AMD-20260817-00246	S Mobile Wireless LLC	Closed
+2026-08-17	ITC-AMD-20260726-00217	S Mobile Wireless LLC	Closed
+2026-08-17	ITC-AMD-20260722-00211	S Mobile Wireless LLC	Closed
+2026-08-17	ITC-214-20260303-00061	S Mobile Wireless LLC	Current
+2026-08-15	ITC-AMD-20260815-00245	3 Billionaires Corporation	Pending Review
+2026-08-14	SES-STA-20260814-02276	SpaceX Services, Inc.	Pending Review
+2026-08-14	SES-STA-20260814-02274	Intelsat License LLC	Pending Review
+2026-08-14	SES-STA-20260814-02273	Intelsat License LLC	Pending Review
+2026-08-14	SES-LIC-20260814-02275	SpaceX Services, Inc.	Pending Review
+2026-08-14	SES-AMD-20260813-02234	Heighliner Corp	Pending Review
+2026-08-14	SAT-MOD-20260814-00339	Astranis Projects USA LLC	Pending Review
+2026-08-14	SAT-MOD-20260814-00338	SES Americom, Inc.	Pending Review
+2026-08-14	SAT-MOD-20260814-00337	Astranis Projects USA LLC	Closed
+2026-08-13	SES-STA-20260813-02237	Intelsat License LLC	Pending Review
+2026-08-13	SES-STA-20260813-02236	Intelsat License LLC	Pending Review
+2026-08-13	SES-STA-20260813-02235	Maris Developments	Closed
+2026-08-13	SES-STA-20260813-02230	ATLAS Space Operations, Inc	Pending Review
+2026-08-13	SES-STA-20260813-02228	ATLAS Space Operations, Inc	Closed
+
+2026-08-13	SES-STA-20260812-02225	Viasat, Inc.	Pending Review
+2026-08-13	SES-STA-20260812-02224	Viasat, Inc.	Pending Review
+2026-08-13	SES-STA-20260812-02223	Viasat, Inc.	Pending Review
+2026-08-13	SES-STA-20260812-02222	Viasat, Inc.	Pending Review
+2026-08-13	SES-STA-20260812-02220	Viasat, Inc.	Pending Review
+2026-08-13	SES-STA-20260812-02218	Viasat, Inc.	Pending Review
+2026-08-13	SES-STA-20260812-02216	Viasat, Inc.	Pending Review
+2026-08-13	SES-STA-20260812-02215	Viasat, Inc.	Pending Review
+2026-08-13	SAT-MOD-20260813-00336	Intelsat License LLC	Pending Review
+2026-08-13	SAT-LOA-20260806-00329	Oligo Space	Pending Review
+2026-08-12	SES-STA-20260805-02171	Globalstar Licensee LLC	Pending Review
+2026-08-12	SES-STA-20260805-02170	Globalstar Licensee LLC	Pending Review
+2026-08-12	SES-STA-20260805-02168	Globalstar Licensee LLC	Pending Review
+2026-08-12	SES-STA-20260805-02167	Globalstar Licensee LLC	Pending Review
+2026-08-12	SES-MOD-20260805-02174	Planet Labs PBC	Pending Review
+2026-08-12	SES-MOD-20260805-02173	Planet Labs PBC	Pending Review
+2026-08-12	SES-ASG-20260811-02202	HNS License Sub, LLC	Pending Consummation
+2026-08-12	SAT-ASG-20260812-00334	Hughes Network Systems, LLC	Pending Consummation
+2026-08-11	SES-STA-20260811-02203	ATLAS Space Operations, Inc	Pending Review
+2026-08-11	SES-LIC-20260811-02201	Quecon, Inc.	Pending Review
+2026-08-11	SES-LIC-20260811-02199	Quecon, Inc.	Pending Review
+2026-08-10	SES-T/C-20260720-02056	Iridium Carrier Services LLC	Pending Review
+2026-08-10	SES-T/C-20260718-02053	Iridium Constellation LLC	Pending Review
+2026-08-10	SES-T/C-20260718-02052	Iridium Satellite LLC	Pending Review
+2026-08-10	SES-STA-20260810-02198	SpaceX Services, Inc.	Pending Review
+2026-08-10	SES-LIC-20260810-02197	SpaceX Services, Inc.	Pending Review
+2026-08-10	SCL-AMD-20260810-00115	BOC-LA1 LLC	Pending Review
+2026-08-10	SAT-T/C-20260720-00302	Iridium Constellation LLC	Pending Review
+2026-08-10	ITC-T/C-20260720-00206	Iridium Communications Inc.	Pending Review
+2026-08-09	ITC-214-20260809-00237	Global Power Telecom Group LLC	Pending Review
+2026-08-08	ITC-AMD-20260808-00235	3 Billionaires Corporation	Pending Review
+2026-08-07	SES-STA-20260807-02194	Viasat, Inc.	Pending Review
+2026-08-07	SES-STA-20260807-02190	Quecon, Inc.	Pending Review
+2026-08-07	SES-STA-20260807-02189	Quecon, Inc.	Pending Review
+2026-08-07	SES-STA-20260807-02188	Quecon, Inc.	Pending Review
+2026-08-07	SES-MOD-20260730-02135	Heighliner Corp	Pending Review
+2026-08-07	SES-LIC-20260529-01495	Viasat, Inc.	Pending Review
+2026-08-07	SCL-FCN-20260806-00113	ARCOS-1 USA, Inc.	Pending Review
+2026-08-07	SAT-T/C-20260727-00313	Capella Space Corp.	Pending Review
+2026-08-07	SAT-STA-20260807-00330	Intelsat License LLC	Closed
+2026-08-07	SAT-STA-20260804-00326	BlackSky Global LLC	Closed
+2026-08-07	SAT-MOD-20260717-00296	DISH Operating L.L.C.	Pending Review
+2026-08-07	SAT-LOA-20260730-00323	Care Weather Technologies	Pending Review
+2026-08-06	SES-STA-20260806-02187	SpaceX Services, Inc.	Pending Review
+2026-08-06	SES-STA-20260806-02186	SpaceX Services, Inc.	Pending Review
+2026-08-06	SES-STA-20260806-02185	SpaceX Services, Inc.	Pending Review
+2026-08-06	SES-STA-20260806-02184	SpaceX Services, Inc.	Pending Review
+2026-08-06	SES-STA-20260806-02183	SpaceX Services, Inc.	Pending Review
+2026-08-06	SES-STA-20260806-02182	SpaceX Services, Inc.	Pending Review
+2026-08-06	SES-LIC-20260806-02181	SpaceX Services, Inc.	Pending Review
+2026-08-06	SES-LIC-20260806-02180	SpaceX Services, Inc.	Pending Review
+2026-08-06	SES-LIC-20260806-02179	SpaceX Services, Inc.	Pending Review
+2026-08-06	SES-LIC-20260806-02178	SpaceX Services, Inc.	Pending Review
+2026-08-06	SES-LIC-20260806-02177	SpaceX Services, Inc.	Pending Review
+2026-08-06	SES-LIC-20260806-02176	SpaceX Services, Inc.	Pending Review
+2026-08-06	SAT-STA-20260806-00328	BlackSky Global LLC	Closed
+2026-08-06	ITC-214-20260728-00221	Bell Oceanic Inc	Pending Review
+2026-08-05	SES-STA-20260805-02175	Hubble Network Inc	Pending Review
+2026-08-05	SES-STA-20260805-02172	RBC Signals, LLC	Pending Review
+2026-08-05	SES-STA-20260805-02165	ATLAS Space Operations, Inc	Pending Review
+2026-08-05	SES-STA-20260805-02163	Universal Space Network, Inc.	Pending Review
+2026-08-05	SES-RWL-20260805-02166	PSSI Global Services LLC	Pending Review
+2026-08-05	SES-RWL-20260720-02057	Marlink, Inc.	Pending Review
+2026-08-05	SES-MOD-20260105-00693	RBC Signals, LLC	Pending Review
+2026-08-05	SCL-AMD-20260805-00112	Cirion Technologies Solutions, LLC	Pending Review
+2026-08-05	SCL-AMD-20260805-00111	Cirion Technologies Solutions, LLC	Pending Review
+2026-08-05	IHF-RWL-20260805-00058	Eternal Word Television Network Inc	Pending Review
+2026-08-04	SES-STA-20260804-02162	SpaceX Services, Inc.	Pending Review
+2026-08-04	SES-STA-20260804-02161	SpaceX Services, Inc.	Pending Review
+2026-08-04	SES-STA-20260803-02152	Iridium Satellite LLC	Closed
+2026-08-04	SES-STA-20260803-02151	Iridium Satellite LLC	Closed
+2026-08-04	SES-STA-20260803-02150	Iridium Constellation LLC	Closed
+2026-08-04	SES-LIC-20260804-02160	SpaceX Services, Inc.	Pending Review
+2026-08-04	SES-LIC-20260804-02159	SpaceX Services, Inc.	Pending Review
+2026-08-04	SCL-RWL-20260803-00108	Cirion Technologies Solutions, LLC	Pending Review
+2026-08-04	SCL-RWL-20260708-00102	Cirion Technologies Solutions, LLC	Pending Review
+2026-08-04	SCL-RPT-20260804-00109	Cable and Wireless (BVI) Limited	Closed
+2026-08-04	SCL-AMD-20260803-00105	Cirion Technologies Solutions, LLC	Pending Review
+2026-08-04	SAT-APL-20260804-00325	ASTRA (GB) Limited	Pending Review
+2026-08-04	SAT-AMD-20260804-00325	ASTRA (GB) Limited	Pending Review
+2026-08-03	SES-STA-20260803-02155	SpaceX Services, Inc.	Pending Review
+2026-08-03	SES-STA-20260803-02153	RBC Signals, LLC	Pending Review
+2026-08-03	SES-STA-20260621-01856	Viasat, Inc.	Closed
+2026-08-03	SES-STA-20260621-01855	Viasat, Inc.	Closed
+2026-08-03	SES-LIC-20260803-02154	SpaceX Services, Inc.	Pending Review
+2026-08-03	SES-ASG-20260722-02094	Scripps Broadcasting Holdings LLC	Closed
+2026-08-03	ITC-T/C-20260729-00225	Siren Telephone Company, Inc	Pending Review
+2026-08-03	IHF-RWL-20260803-00057	Leap of Faith, INc.	Pending Review
+2026-08-01	ITC-214-20260801-00231	Lightspeed Tech Systems, LLC	Pending Review
+2026-07-31	SES-T/C-20260731-02148	Fisica Inc	Pending Payment
+2026-07-31	SES-STA-20260731-02149	SpaceX Services, Inc.	Pending Review
+2026-07-31	SES-STA-20260731-02147	Intelsat License LLC	Closed
+2026-07-31	SES-STA-20260731-02146	Intelsat License LLC	Closed
+2026-07-31	SES-STA-20260731-02144	Intelsat License LLC	Closed
+2026-07-31	SES-STA-20260730-02139	SpaceX Services, Inc.	Pending Review
+2026-07-31	SES-STA-20260730-02138	SpaceX Services, Inc.	Pending Review
+2026-07-31	SES-RWL-20260731-02145	Gray Television Licensee, LLC	Pending Review
+2026-07-31	SES-RWL-20260731-02143	Gray Television Licensee, LLC	Pending Review
+2026-07-31	SES-RWL-20260722-02074	L3Harris Technologies, Inc.	Pending Review
+2026-07-31	SES-LIC-20260730-02140	SpaceX Services, Inc.	Pending Review
+
