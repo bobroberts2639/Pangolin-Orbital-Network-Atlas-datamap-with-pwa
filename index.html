@@ -1,7 +1,17 @@
 <!doctype html>
 <html lang="en">
+<head>
 <meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
 <title>Orbital Network Atlas</title>
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icons/favicon.ico" sizes="any">
+<link rel="icon" href="icons/favicon-64.png" type="image/png" sizes="64x64">
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Orbital Atlas">
 <meta name="description" content="Live 3D atlas of satellite-to-ground-station connectivity: networking constellations propagated from current orbital elements, gateways, teleports and the SatNOGS open network, with a similarity map and build-out timeline.">
 <meta name="theme-color" content="#03060c">
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -186,8 +196,10 @@ button,input{font-family:inherit}
   #legend.show{display:block}
   #insp{bottom:12px}
 }
+#installBtn[hidden]{display:none}
 </style>
-
+</head>
+<body>
 <div id="boot"><h2>Orbital Network Atlas</h2><div id="bootbar"><i></i></div><p id="bootmsg">Loading orbital elements&hellip;</p></div>
 
 <div id="app">
@@ -268,6 +280,7 @@ button,input{font-family:inherit}
         <button id="segG" class="on">Globe</button><button id="segE">Similarity</button><button id="segB">Both</button>
       </div>
       <button class="btn" id="lblBtn">Labels: auto</button>
+      <button class="btn" id="installBtn" hidden title="Install as an app">Install</button>
       <button class="btn" id="reset">Reset</button>
     </div>
     <div id="legend">
@@ -285,7 +298,7 @@ button,input{font-family:inherit}
 </div>
 <div id="tip"></div>
 
-<script src="https://cdn.jsdelivr.net/npm/three@0.160.0/build/three.min.js"></script>
+<script src="assets/three.min.js"></script>
 <script>
 /* =====================================================================
    Orbital Network Atlas
@@ -297,7 +310,7 @@ function bootFail(title,detail){BOOT.classList.remove('gone');document.getElemen
   BOOTMSG.innerHTML='<span class="err">'+title+'</span><br><br>'+detail}
 function loadThree(){
   if(window.THREE) return Promise.resolve();
-  return new Promise((res,rej)=>{const s=document.createElement('script');s.src='assets/three.min.js';s.onload=res;s.onerror=()=>rej(new Error('three.js unavailable'));document.head.appendChild(s)});
+  return new Promise((res,rej)=>{const s=document.createElement('script');s.src='https://cdn.jsdelivr.net/npm/three@0.160.0/build/three.min.js';s.onload=res;s.onerror=()=>rej(new Error('three.js unavailable'));document.head.appendChild(s)});
 }
 Promise.all([loadThree(),
   fetch('data/orbital.json').then(r=>{if(!r.ok)throw new Error('HTTP '+r.status);return r.json()}),
@@ -305,9 +318,16 @@ Promise.all([loadThree(),
 .then(([_,D,B])=>{BOOT.classList.add('gone');boot(D,B)})
 .catch(err=>{const local=location.protocol==='file:';
   bootFail(local?'Cannot load data over file://':'Could not load the atlas data',
-    local?'Browsers block <code>fetch</code> on local files. Serve the folder instead:<pre>python -m http.server 8000\n# then open http://localhost:8000</pre>'
+    local?'Browsers block <code>fetch</code> on local files. Serve the folder instead:<pre>python -m http.server 8000\n# then open http://localhost:8000</pre>Or open the hosted app: <a style="color:#6fd3ff" href="https://bobroberts2639.github.io/Pangolin-Orbital-Network-Atlas-datamap-with-pwa/">bobroberts2639.github.io/…</a>'
          :'Error: '+err.message)});
 
+if('serviceWorker' in navigator && location.protocol.startsWith('http')){
+  window.addEventListener('load',()=>navigator.serviceWorker.register('sw.js').catch(()=>{}));
+}
+let deferredPrompt=null;
+window.addEventListener('beforeinstallprompt',e=>{e.preventDefault();deferredPrompt=e;const b=document.getElementById('installBtn');b.hidden=false;
+  b.onclick=async()=>{b.hidden=true;deferredPrompt.prompt();try{await deferredPrompt.userChoice}catch(_){}deferredPrompt=null}});
+window.addEventListener('appinstalled',()=>{document.getElementById('installBtn').hidden=true});
 function boot(D,BORDERS){
 const T=THREE;
 /* ---------------- palette ---------------- */
@@ -973,4 +993,5 @@ tlPaint(YMAX);apply();resizeAll();requestAnimationFrame(t=>{lastWall=t;tick(t)})
 window.__atlas={propagate,ECI,S,vs,vg,apply,get LK(){return LK},SA,GS,setView,select,get simT(){return simT}};
 }
 </script>
+</body>
 </html>

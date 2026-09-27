@@ -1,0 +1,42 @@
+name: Daily orbit refresh
+
+# Rebuilds data/orbital.json from fresh CelesTrak elements every day and commits it.
+# GitHub Pages then serves the new file; the PWA service worker fetches it network-first.
+on:
+  schedule:
+    - cron: "48 11 * * *"      # 11:48 UTC = 04:48 Pacific (daylight time)
+  workflow_dispatch: {}          # "Run workflow" button for a manual refresh
+
+permissions:
+  contents: write
+
+concurrency:
+  group: orbit-refresh
+  cancel-in-progress: true
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Install dependencies
+        run: pip install numpy sgp4
+      - name: Rebuild payload in a scratch folder
+        run: |
+          mkdir -p /tmp/work
+          cp -r pipeline/. /tmp/work/
+          cd /tmp/work && python refresh.py | tee refresh.log
+          tail -1 refresh.log | python -c "import json,sys; d=json.loads(sys.stdin.read()); assert d['ok'] and d['sats']>10000 and d['stations']>4000, d"
+          cp /tmp/work/out/orbital.json "$GITHUB_WORKSPACE/data/orbital.json"
+      - name: Commit if changed
+        run: |
+          git config user.name  "orbit-refresh[bot]"
+          git config user.email "orbit-refresh@users.noreply.github.com"
+          git add data/orbital.json
+          if git diff --cached --quiet; then echo "no change"; exit 0; fi
+          git commit -m "Daily orbit refresh $(date -u +%Y-%m-%dT%H:%MZ)"
+          git push

@@ -28,7 +28,7 @@ for g in GROUPS: n += get(SV + g + ".json", f"raw/{g}.json", 50)
 n += get("https://raw.githubusercontent.com/2048lr/celestrak-mirror/main/satcat/satcat.csv", "raw/satcat.csv", 1_000_000)
 n += get("https://raw.githubusercontent.com/clarkzjw/starlink-geoip-data/master/map/pop.json", "raw/starlink_pop.json", 1000)
 if not os.path.exists("raw/satnogs_stations.json"):
-    os.replace("satnogs_stations.json", "raw/satnogs_stations.json")
+    import shutil; shutil.copy("satnogs_stations.json", "raw/satnogs_stations.json")
 print(f"downloaded {n/1e6:.1f} MB")
 env = dict(os.environ, OUT="out/orbital.json")
 for step in ("build_dataset.py", "build_payload.py"):

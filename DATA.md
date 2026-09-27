@@ -5,8 +5,9 @@ build-out timeline, with a live 3D globe as the primary view.
 
 - `index.html` — the app shell; loads `data/orbital.json` and `data/borders.json` at startup.
 - `assets/` — Earth textures (NASA Blue Marble / Black Marble derivatives, via the `three-globe`
-  npm package examples) and a local `three.min.js` fallback (r160) used if the CDN is unreachable.
-- `scripts/` — the full rebuild pipeline (see "Rebuilding").
+  npm package examples) and `three.min.js` (r160), loaded locally so the PWA works offline.
+- `pipeline/` — the full rebuild pipeline and every input it needs (see "Rebuilding").
+- `notebooks/orbital_network_atlas.ipynb` — the narrated write-up of how this was built.
 
 Run locally: `python -m http.server 8000` in this folder, then open http://localhost:8000
 (browsers block `fetch` on `file://`).
@@ -52,7 +53,7 @@ radii; tick "True-scale altitude" for real proportions.
 
 `data/fcc/fcc_filings_2026-07-31_to_09-18.csv` is the ICFS filing list you supplied, parsed and
 tagged (500 filings). The 29 most relevant were opened in the ICFS portal and their Form 312
-Schedule B read directly (`scripts/fcc_sites.json`): exact NAD-83 coordinates, site elevation,
+Schedule B read directly (`pipeline/fcc_sites.json`): exact NAD-83 coordinates, site elevation,
 antenna count and size, and every licensed band.
 
 | Operator | Filings | What they are | Antennas per site |
@@ -88,7 +89,7 @@ of what is actually switched on right now.
 | Site taken from the STA's own Schedule B (exact coordinates) | 98 |
 | Site taken from the filing description or the earlier STA it extends (town-level, geocoded) | 94 |
 | Mobile, aircraft, ESIM, terminal or test-antenna STAs (no fixed site, skipped) | 17 |
-| No location published anywhere in the chain (listed in `scripts/fcc_sta_sites.json`) | 71 |
+| No location published anywhere in the chain (listed in `pipeline/fcc_sta_sites.json`) | 71 |
 
 These collapse to **161 distinct sites**: 78 Starlink gateways, 49 Viasat SANs (the ViaSat-3
 ground network, 2.4 m Ka-band), 8 Intelsat teleports and 26 others (KSAT, SSC/USN, ATLAS, RBC
@@ -119,8 +120,9 @@ Starlink PoP list from their GitHub mirrors, re-fits every orbit with SGP4 to th
 and republishes only `data/orbital.json`. It refuses to publish if a download fails or the result
 has fewer than 10,000 satellites or 4,000 stations. Newly launched satellites are placed on the
 similarity map by nearest neighbours; labels stay fixed. The subtitle shows when orbits were last
-refreshed. The refresh runs in the cloud, so this local folder copy does not update by itself;
-`pipeline/refresh.py` runs here too (`pip install numpy sgp4`, then `python refresh.py`).
+refreshed. In this repository the same job runs as the GitHub Action `.github/workflows/refresh.yml`
+(daily 11:48 UTC, or "Run workflow" by hand), which commits a fresh `data/orbital.json`.
+`pipeline/refresh.py` also runs locally (`pip install numpy sgp4`, then `python refresh.py`).
 
 **Coverage heatmap** (toggle, or `h`). For every shown satellite, the ground circle where it is
 above 25° elevation is added to a 2° grid, so each cell counts how many satellites a user there
@@ -206,10 +208,9 @@ year; the ground segment splits by region and site type.
 
 ## Rebuilding
 
+Routine refresh (keeps the similarity layout and labels):
 ```
-python scripts/build_dataset.py        # master table + features (needs raw/ inputs)
-python datamap_pipeline.py build ...   # layout + clusters (datamap skill)
-python scripts/relayout.py             # spread display layout
-python scripts/build_payload.py        # re-epoch with SGP4 and write data/orbital.json
+cd pipeline && pip install numpy sgp4 && python refresh.py   # -> out/orbital.json
 ```
-Dependencies: `pip install sgp4 umap-learn hdbscan scikit-learn numpy pandas`.
+A full rebuild from scratch (new layout, relabelling) is walked through in
+`notebooks/orbital_network_atlas.ipynb`; it also needs `umap-learn hdbscan scikit-learn`.
