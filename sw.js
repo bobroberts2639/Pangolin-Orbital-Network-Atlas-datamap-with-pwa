@@ -2,7 +2,7 @@
    - app shell, textures, three.js and icons: cache-first (versioned)
    - data/orbital.json: network-first, so the daily refresh shows up; cached copy used offline
    - Google Fonts: stale-while-revalidate */
-const VERSION = 'ona-v1-2026-09-27';
+const VERSION = 'ona-v2-2026-09-28';
 const SHELL = [
   './', 'index.html', 'manifest.webmanifest',
   'assets/three.min.js', 'assets/earth-day.jpg', 'assets/earth-night.jpg', 'assets/earth-water.png',

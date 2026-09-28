@@ -34,8 +34,10 @@ was built out. It installs as a **progressive web app (PWA)** and works offline 
   operating under temporary authority.
 - **Build-out timeline:** play it to watch the constellations and the ground network grow.
 
+Touch: one finger rotates or pans, two fingers pinch to zoom; the `+`/`−` buttons also zoom.
+
 Keys: `1` globe · `2` similarity · `3` both · `/` search · `k` pause clock · `l` links ·
-`h` heatmap · `t` trails · `space` build-out · `r` reset.
+`h` heatmap · `t` trails · `space` build-out · `+`/`-` zoom · `r` reset.
 
 ## Install as an app
 
