@@ -494,7 +494,7 @@ const lg=document.getElementById('lgItems');
 const lgList=[...conOrder.slice(0,10).map(i=>[C[i].name,ccol[i],false]),[ 'SatNOGS station',KCOL[7],false],['Starlink gateway',KCOL[0],true],['Gateway / teleport',KCOL[3],true],['TT&C / deep space',KCOL[5],true]];
 lgList.forEach(([n,c,sq])=>{const d=document.createElement('div');d.className='li';d.innerHTML='<span class="d'+(sq?' sq':'')+'" style="background:'+c+';color:'+c+'"></span>';d.appendChild(document.createTextNode(n));lg.appendChild(d)});
 document.getElementById('lgToggle').onclick=e=>{const L=document.getElementById('legend');L.classList.toggle('min');e.target.textContent=L.classList.contains('min')?'show':'hide';e.target.setAttribute('aria-expanded',!L.classList.contains('min'))};
-document.getElementById('lgNote').innerHTML='Altitude above 2,000 km is compressed unless true scale is on. Drag to orbit, scroll to zoom, click anything to inspect.<br>'+
+document.getElementById('lgNote').innerHTML='Altitude above 2,000 km is compressed unless true scale is on. Drag to orbit; scroll, pinch or use +/− to zoom; click anything to inspect.<br>'+
   'Click a satellite to open its CelesTrak record; Shift-click to inspect only.<br><b>1</b> globe · <b>2</b> similarity · <b>3</b> both · <b>/</b> search · <b>k</b> pause · <b>l</b> links · <b>h</b> heatmap · <b>t</b> trails · <b>space</b> build-out';
 
 /* =====================================================================
